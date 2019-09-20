@@ -1,0 +1,10 @@
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple, port) VALUES (1, 'USD', 'PLN', 3.9319, 0);
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple, port) VALUES (2, 'EUR', 'PLN', 4.3438, 0);
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple, port) VALUES (3, 'CHF', 'PLN', 3.9668, 0);
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple, port) VALUES (4, 'GBP', 'PLN', 4.9277, 0);
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple, port) VALUES (5, 'USD', 'EUR', 0.90801, 0);
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple, port) VALUES (6, 'USD', 'JPY', 107.671, 0);
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple, port) VALUES (7, 'USD', 'RUB', 63.9401, 0);
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple, port) VALUES (8, 'RUB', 'PLN', 0.06222, 0);
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple, port) VALUES (9, 'AUD', 'PLN', 2.68779, 0);
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple, port) VALUES (10, 'CAD', 'PLN', 2.99633, 0);
